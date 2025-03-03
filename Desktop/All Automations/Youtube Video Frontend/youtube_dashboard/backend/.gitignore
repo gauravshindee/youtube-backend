@@ -1,0 +1,14 @@
+# Ignore system & config files
+.DS_Store
+.aws/
+.cache/
+.config/
+.docker/
+.ipython/
+.kube/
+.matplotlib/
+.vscode/
+.venv/
+node_modules/
+__pycache__/
+
